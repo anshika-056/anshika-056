@@ -13,9 +13,9 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <h2> My GitHub Stats </h2>
 
-<p align="left"> <a href="https://github.com/anandpratiksha"><img src="https://github-profile-trophy.vercel.app/?username=anshika-056&theme=onedark" alt="anandpratiksha" /></a> </p>
+<p align="left"> <a href="https://github.com/"><img src="https://github-profile-trophy.vercel.app/?username=anshika-056&theme=onedark" alt="anshika-056" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpratiksha&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="anshika-056" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshika-056&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="anshika-056" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anshika-056&show_icons=true&count_private=true&&theme=highcontrast)  
